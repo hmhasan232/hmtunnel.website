@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script Variables
-HOST='136.158.40.236';
+HOST='185.61.137.174';
 USER='mahmudul_gttunnelvpn';
 PASS='VpnPanel7519';
 DBNAME='mahmudul_gttunnelvpn';
